@@ -38,7 +38,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/rohitt18">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohitt18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
