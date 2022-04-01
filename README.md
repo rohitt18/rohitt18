@@ -26,14 +26,13 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=express&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Nextjs](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
-  ![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=flat&logo=react&logoColor=61DAFB)
+<!--   ![Nextjs](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
+  ![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=flat&logo=react&logoColor=61DAFB) -->
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
