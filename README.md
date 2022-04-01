@@ -23,20 +23,31 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=express&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Nextjs](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
+  ![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=flat&logo=react&logoColor=61DAFB)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+  ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
+  ![AntDesign](https://img.shields.io/badge/Ant%20Design-1890FF?style=flat&logo=antdesign&logoColor=white)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+  ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=flate&logo=yarn&logoColor=white)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
