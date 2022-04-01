@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Information Technology at Thakur College of Engineering & Technology.
 - 💼 &nbsp; Trying to gain experience through internships as a MERN stack developer.
 - 🌱 &nbsp; Exploring Blockchain & Android development.
-- ✍️ &nbsp; Learning Graphic Designing as hobbie/side hustles.
+- ✍️ &nbsp; Learning Graphic Designing as hobbie/side hustle.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
